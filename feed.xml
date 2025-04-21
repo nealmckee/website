@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Neal McKee</title>
+    <link href="https://nealmckee.github.io/website/feed.xml" rel="self" />
+    <link href="https://nealmckee.github.io/website" />
+    <updated>2025-04-21T14:45:36+02:00</updated>
+    <author>
+        <name>Neal McKee</name>
+    </author>
+    <id>https://nealmckee.github.io/website</id>
+
+    <entry>
+        <title>bay on Corfu, 2024</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/bay-on-corfu-2024/"/>
+        <id>https://nealmckee.github.io/website/bay-on-corfu-2024/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/73/20240911.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Photography"/>
+            <category term="Nature"/>
+            <category term="Landscapes"/>
+            <category term="2024"/>
+
+        <updated>2025-04-21T01:13:41+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>camel, 2019</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/camel-2019-2/"/>
+        <id>https://nealmckee.github.io/website/camel-2019-2/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/72/20190902-2.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Photography"/>
+            <category term="Nature"/>
+            <category term="Fuerteventura"/>
+            <category term="Animals"/>
+            <category term="2019"/>
+
+        <updated>2025-04-21T01:12:43+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>aquatic reptile, 2019</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/camel-2019/"/>
+        <id>https://nealmckee.github.io/website/camel-2019/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/71/20190902.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Portfolio"/>
+            <category term="Photography"/>
+            <category term="Nature"/>
+            <category term="Fuerteventura"/>
+            <category term="Animals"/>
+            <category term="2019"/>
+
+        <updated>2025-04-21T01:10:02+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>colourful boats on a black beach, 2019</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/colourful-boats-on-a-black-beach-2019/"/>
+        <id>https://nealmckee.github.io/website/colourful-boats-on-a-black-beach-2019/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/70/20190831.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Portfolio"/>
+            <category term="Photography"/>
+            <category term="Fuerteventura"/>
+            <category term="2019"/>
+
+        <updated>2025-04-21T01:07:28+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Quinta da Regaleira, Sintra, 2018</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/quinta-da-regaleira-sintra-2018/"/>
+        <id>https://nealmckee.github.io/website/quinta-da-regaleira-sintra-2018/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/69/20180903.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Portfolio"/>
+            <category term="Photography"/>
+            <category term="Nature"/>
+            <category term="Landscapes"/>
+            <category term="2018"/>
+
+        <updated>2025-04-21T01:05:18+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>spiral staircase, 2018</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/spiral-staircase-2018/"/>
+        <id>https://nealmckee.github.io/website/spiral-staircase-2018/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/68/20180830.jpg" medium="image" />
+            <category term="Travel"/>
+            <category term="Photography"/>
+            <category term="2018"/>
+
+        <updated>2025-04-21T01:03:36+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>fallen tree, 2017</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/fallen-tree-2017/"/>
+        <id>https://nealmckee.github.io/website/fallen-tree-2017/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/67/20170415.jpg" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Photography"/>
+            <category term="Nature"/>
+            <category term="Landscapes"/>
+            <category term="2017"/>
+
+        <updated>2025-04-21T01:02:16+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Till screaming, 2017</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/till-screaming-2017/"/>
+        <id>https://nealmckee.github.io/website/till-screaming-2017/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/66/20170314.jpg" medium="image" />
+            <category term="Portraits"/>
+            <category term="Photography"/>
+            <category term="2017"/>
+
+        <updated>2025-04-21T01:01:06+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>lit up container, 2016</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/lit-up-container-2016/"/>
+        <id>https://nealmckee.github.io/website/lit-up-container-2016/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/65/20161015.jpg" medium="image" />
+            <category term="Snapshots"/>
+            <category term="Portfolio"/>
+            <category term="Photography"/>
+            <category term="2016"/>
+
+        <updated>2025-04-21T01:00:02+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>dumpsters near Düsseldorf airport, 2016</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/dumpsters-near-duesseldorf-airport-2015/"/>
+        <id>https://nealmckee.github.io/website/dumpsters-near-duesseldorf-airport-2015/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/64/20151109.jpg" medium="image" />
+            <category term="Snapshots"/>
+            <category term="Photography"/>
+            <category term="2016"/>
+
+        <updated>2025-04-21T00:58:45+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
