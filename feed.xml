@@ -3,12 +3,33 @@
     <title>Neal McKee</title>
     <link href="https://nealmckee.github.io/website/feed.xml" rel="self" />
     <link href="https://nealmckee.github.io/website" />
-    <updated>2025-04-23T14:54:48+02:00</updated>
+    <updated>2025-05-01T13:42:31+02:00</updated>
     <author>
         <name>Neal McKee</name>
     </author>
     <id>https://nealmckee.github.io/website</id>
 
+    <entry>
+        <title>SwarmViz: Integrating Visual and Quantitative Analysis of Collective Movement</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/posts/swarmviz-integrating-visual-and-quantitative-analysis-of-collective-movement/"/>
+        <id>https://nealmckee.github.io/website/posts/swarmviz-integrating-visual-and-quantitative-analysis-of-collective-movement/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/74/interface.png" medium="image" />
+            <category term="Science"/>
+            <category term="Publications"/>
+            <category term="Intelligence"/>
+
+        <updated>2025-04-26T22:26:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nealmckee.github.io/website/media/posts/74/interface.png" alt="" />
+                    During a lab rotation for my Computational Neuroscience MSc at the BCCN&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>bay on Corfu, 2024</title>
         <author>
@@ -167,22 +188,6 @@
             <category term="2016"/>
 
         <updated>2025-04-21T01:00:02+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>dumpsters near Düsseldorf airport, 2016</title>
-        <author>
-            <name>Neal McKee</name>
-        </author>
-        <link href="https://nealmckee.github.io/website/posts/dumpsters-near-duesseldorf-airport-2015/"/>
-        <id>https://nealmckee.github.io/website/posts/dumpsters-near-duesseldorf-airport-2015/</id>
-        <media:content url="https://nealmckee.github.io/website/media/posts/64/20151109.jpg" medium="image" />
-            <category term="Snapshots"/>
-            <category term="Photography"/>
-            <category term="2016"/>
-
-        <updated>2025-04-21T00:58:45+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>

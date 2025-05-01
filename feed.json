@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://nealmckee.github.io/website/posts/swarmviz-integrating-visual-and-quantitative-analysis-of-collective-movement/",
+            "url": "https://nealmckee.github.io/website/posts/swarmviz-integrating-visual-and-quantitative-analysis-of-collective-movement/",
+            "title": "SwarmViz: Integrating Visual and Quantitative Analysis of Collective Movement",
+            "summary": "During a lab rotation for my Computational Neuroscience MSc at the BCCN&hellip;",
+            "image": "https://nealmckee.github.io/website/media/posts/74/interface.png",
+            "author": {
+                "name": "Neal McKee"
+            },
+            "tags": [
+                   "Science",
+                   "Publications",
+                   "Intelligence"
+            ],
+            "date_published": "2025-04-26T22:26:53+02:00",
+            "date_modified": "2025-05-01T13:42:31+02:00"
+        },
+        {
             "id": "https://nealmckee.github.io/website/posts/bay-on-corfu-2024/",
             "url": "https://nealmckee.github.io/website/posts/bay-on-corfu-2024/",
             "title": "bay on Corfu, 2024",
@@ -169,22 +186,6 @@
             ],
             "date_published": "2025-04-21T01:00:02+02:00",
             "date_modified": "2025-04-21T01:23:26+02:00"
-        },
-        {
-            "id": "https://nealmckee.github.io/website/posts/dumpsters-near-duesseldorf-airport-2015/",
-            "url": "https://nealmckee.github.io/website/posts/dumpsters-near-duesseldorf-airport-2015/",
-            "title": "dumpsters near Düsseldorf airport, 2016",
-            "image": "https://nealmckee.github.io/website/media/posts/64/20151109.jpg",
-            "author": {
-                "name": "Neal McKee"
-            },
-            "tags": [
-                   "Snapshots",
-                   "Photography",
-                   "2016"
-            ],
-            "date_published": "2025-04-21T00:58:45+02:00",
-            "date_modified": "2025-04-21T01:00:15+02:00"
         }
     ]
 }
