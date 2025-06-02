@@ -3,12 +3,29 @@
     <title>Neal McKee</title>
     <link href="https://nealmckee.github.io/website/feed.xml" rel="self" />
     <link href="https://nealmckee.github.io/website" />
-    <updated>2025-05-04T14:21:09+02:00</updated>
+    <updated>2025-06-02T17:06:04+02:00</updated>
     <author>
         <name>Neal McKee</name>
     </author>
     <id>https://nealmckee.github.io/website</id>
 
+    <entry>
+        <title>anniii: Choose Empathy – EP</title>
+        <author>
+            <name>Neal McKee</name>
+        </author>
+        <link href="https://nealmckee.github.io/website/posts/anniii-choose-empathy-ep/"/>
+        <id>https://nealmckee.github.io/website/posts/anniii-choose-empathy-ep/</id>
+        <media:content url="https://nealmckee.github.io/website/media/posts/76/ace_socials_medium.jpg" medium="image" />
+            <category term="Portraits"/>
+            <category term="Portfolio"/>
+            <category term="Photography"/>
+            <category term="2025"/>
+
+        <updated>2025-06-02T16:55:11+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>SwarmViz: Integrating Visual and Quantitative Analysis of Collective Movement</title>
         <author>
@@ -31,7 +48,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>bay on Corfu, 2024</title>
+        <title>bay on Corfu</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -49,7 +66,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>camel, 2019</title>
+        <title>camel</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -68,7 +85,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>aquatic reptile, 2019</title>
+        <title>aquatic reptile</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -88,7 +105,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>colourful boats on a black beach, 2019</title>
+        <title>colourful boats on a black beach</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -106,7 +123,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Quinta da Regaleira, Sintra, 2018</title>
+        <title>Quinta da Regaleira, Sintra</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -125,7 +142,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>spiral staircase, 2018</title>
+        <title>spiral staircase</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -141,7 +158,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>fallen tree, 2017</title>
+        <title>fallen tree</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -159,7 +176,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>Till screaming, 2017</title>
+        <title>Till screaming</title>
         <author>
             <name>Neal McKee</name>
         </author>
@@ -171,23 +188,6 @@
             <category term="2017"/>
 
         <updated>2025-04-21T01:01:06+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>lit up container, 2016</title>
-        <author>
-            <name>Neal McKee</name>
-        </author>
-        <link href="https://nealmckee.github.io/website/posts/lit-up-container-2016/"/>
-        <id>https://nealmckee.github.io/website/posts/lit-up-container-2016/</id>
-        <media:content url="https://nealmckee.github.io/website/media/posts/65/20161015.jpg" medium="image" />
-            <category term="Snapshots"/>
-            <category term="Portfolio"/>
-            <category term="Photography"/>
-            <category term="2016"/>
-
-        <updated>2025-04-21T01:00:02+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>

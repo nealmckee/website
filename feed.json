@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://nealmckee.github.io/website/posts/anniii-choose-empathy-ep/",
+            "url": "https://nealmckee.github.io/website/posts/anniii-choose-empathy-ep/",
+            "title": "anniii: Choose Empathy – EP",
+            "image": "https://nealmckee.github.io/website/media/posts/76/ace_socials_medium.jpg",
+            "author": {
+                "name": "Neal McKee"
+            },
+            "tags": [
+                   "Portraits",
+                   "Portfolio",
+                   "Photography",
+                   "2025"
+            ],
+            "date_published": "2025-06-02T16:55:11+02:00",
+            "date_modified": "2025-06-02T16:58:01+02:00"
+        },
+        {
             "id": "https://nealmckee.github.io/website/posts/swarmviz-integrating-visual-and-quantitative-analysis-of-collective-movement/",
             "url": "https://nealmckee.github.io/website/posts/swarmviz-integrating-visual-and-quantitative-analysis-of-collective-movement/",
             "title": "SwarmViz: Integrating Visual and Quantitative Analysis of Collective Movement",
@@ -24,12 +41,12 @@
                    "Intelligence"
             ],
             "date_published": "2025-04-26T22:26:53+02:00",
-            "date_modified": "2025-05-04T14:21:09+02:00"
+            "date_modified": "2025-05-21T16:42:53+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/bay-on-corfu-2024/",
             "url": "https://nealmckee.github.io/website/posts/bay-on-corfu-2024/",
-            "title": "bay on Corfu, 2024",
+            "title": "bay on Corfu",
             "image": "https://nealmckee.github.io/website/media/posts/73/20240911.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -42,12 +59,12 @@
                    "2024"
             ],
             "date_published": "2025-04-21T01:13:41+02:00",
-            "date_modified": "2025-04-23T14:54:48+02:00"
+            "date_modified": "2025-06-02T16:58:48+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/camel-2019-2/",
             "url": "https://nealmckee.github.io/website/posts/camel-2019-2/",
-            "title": "camel, 2019",
+            "title": "camel",
             "image": "https://nealmckee.github.io/website/media/posts/72/20190902-2.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -61,12 +78,12 @@
                    "2019"
             ],
             "date_published": "2025-04-21T01:12:43+02:00",
-            "date_modified": "2025-04-21T14:45:36+02:00"
+            "date_modified": "2025-06-02T16:58:52+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/camel-2019/",
             "url": "https://nealmckee.github.io/website/posts/camel-2019/",
-            "title": "aquatic reptile, 2019",
+            "title": "aquatic reptile",
             "image": "https://nealmckee.github.io/website/media/posts/71/20190902.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -81,12 +98,12 @@
                    "2019"
             ],
             "date_published": "2025-04-21T01:10:02+02:00",
-            "date_modified": "2025-04-21T01:24:28+02:00"
+            "date_modified": "2025-06-02T16:59:02+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/colourful-boats-on-a-black-beach-2019/",
             "url": "https://nealmckee.github.io/website/posts/colourful-boats-on-a-black-beach-2019/",
-            "title": "colourful boats on a black beach, 2019",
+            "title": "colourful boats on a black beach",
             "image": "https://nealmckee.github.io/website/media/posts/70/20190831.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -99,12 +116,12 @@
                    "2019"
             ],
             "date_published": "2025-04-21T01:07:28+02:00",
-            "date_modified": "2025-04-21T01:16:00+02:00"
+            "date_modified": "2025-06-02T16:59:17+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/quinta-da-regaleira-sintra-2018/",
             "url": "https://nealmckee.github.io/website/posts/quinta-da-regaleira-sintra-2018/",
-            "title": "Quinta da Regaleira, Sintra, 2018",
+            "title": "Quinta da Regaleira, Sintra",
             "image": "https://nealmckee.github.io/website/media/posts/69/20180903.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -118,12 +135,12 @@
                    "2018"
             ],
             "date_published": "2025-04-21T01:05:18+02:00",
-            "date_modified": "2025-04-21T01:23:01+02:00"
+            "date_modified": "2025-06-02T16:59:25+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/spiral-staircase-2018/",
             "url": "https://nealmckee.github.io/website/posts/spiral-staircase-2018/",
-            "title": "spiral staircase, 2018",
+            "title": "spiral staircase",
             "image": "https://nealmckee.github.io/website/media/posts/68/20180830.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -134,12 +151,12 @@
                    "2018"
             ],
             "date_published": "2025-04-21T01:03:36+02:00",
-            "date_modified": "2025-04-21T01:03:36+02:00"
+            "date_modified": "2025-06-02T16:59:33+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/fallen-tree-2017/",
             "url": "https://nealmckee.github.io/website/posts/fallen-tree-2017/",
-            "title": "fallen tree, 2017",
+            "title": "fallen tree",
             "image": "https://nealmckee.github.io/website/media/posts/67/20170415.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -152,12 +169,12 @@
                    "2017"
             ],
             "date_published": "2025-04-21T01:02:16+02:00",
-            "date_modified": "2025-04-21T01:23:11+02:00"
+            "date_modified": "2025-06-02T17:04:11+02:00"
         },
         {
             "id": "https://nealmckee.github.io/website/posts/till-screaming-2017/",
             "url": "https://nealmckee.github.io/website/posts/till-screaming-2017/",
-            "title": "Till screaming, 2017",
+            "title": "Till screaming",
             "image": "https://nealmckee.github.io/website/media/posts/66/20170314.jpg",
             "author": {
                 "name": "Neal McKee"
@@ -168,24 +185,7 @@
                    "2017"
             ],
             "date_published": "2025-04-21T01:01:06+02:00",
-            "date_modified": "2025-04-21T01:01:06+02:00"
-        },
-        {
-            "id": "https://nealmckee.github.io/website/posts/lit-up-container-2016/",
-            "url": "https://nealmckee.github.io/website/posts/lit-up-container-2016/",
-            "title": "lit up container, 2016",
-            "image": "https://nealmckee.github.io/website/media/posts/65/20161015.jpg",
-            "author": {
-                "name": "Neal McKee"
-            },
-            "tags": [
-                   "Snapshots",
-                   "Portfolio",
-                   "Photography",
-                   "2016"
-            ],
-            "date_published": "2025-04-21T01:00:02+02:00",
-            "date_modified": "2025-04-21T01:23:26+02:00"
+            "date_modified": "2025-06-02T17:06:04+02:00"
         }
     ]
 }
